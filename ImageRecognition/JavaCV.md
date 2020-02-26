@@ -26,7 +26,3 @@ void main() {
 
 }
 ```
-
-### Links
-
-[Her er et link](./ImageRecognition/JavaCV.md)
